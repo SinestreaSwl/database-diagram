@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.3">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/137.0.0.0 Safari/537.36" version="27.0.3" pages="3">
   <diagram name="Halaman-1" id="B_A3s2_IFmIIh6A6cxAt">
     <mxGraphModel dx="793" dy="465" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -82,6 +82,160 @@
         <mxCell id="g_VqE2WKqQlK8JRJrOXR-22" value="&lt;font&gt;Data Peminjaman&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="410" y="270" width="105.5" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="UC-hDwQHrU6XjZ-RaPW0" name="Halaman-2">
+    <mxGraphModel dx="918" dy="538" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-1" value="PEMINJAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-3" value="1.0&lt;div&gt;PENDAFTARAN PEMINJAM&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="15" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="LLWd2azIcAdbSTXL5f2x-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="200" as="sourcePoint" />
+            <mxPoint x="270" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-6" value="Data Peminjam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="168" y="30" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="180" as="sourcePoint" />
+            <mxPoint x="320" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-9" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="180" as="sourcePoint" />
+            <mxPoint x="220" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-10" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="160" as="sourcePoint" />
+            <mxPoint x="210" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-11" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="90" y="220" as="sourcePoint" />
+            <mxPoint x="210" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-12" value="DATA PEMINJAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="99" y="176" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="200" as="sourcePoint" />
+            <mxPoint x="340" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-14" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="220" y="200" as="sourcePoint" />
+            <mxPoint x="340" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-15" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Status Pendaftaran&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="235" y="206" width="80" height="14" as="geometry" />
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-16" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;Data Peminjam&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="160" width="70" height="16" as="geometry" />
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="LLWd2azIcAdbSTXL5f2x-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="270" y="85" as="sourcePoint" />
+            <mxPoint x="322" y="147" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LLWd2azIcAdbSTXL5f2x-19" value="Status Peminjam" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="168" y="90" width="102" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-1" value="PEMINJAM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="_EkYU_BqKjtHuQNzoAOT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="65" as="sourcePoint" />
+            <mxPoint x="680" y="55" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-3" value="2.0&lt;br&gt;&lt;div&gt;PENCARIAN&amp;nbsp;&lt;/div&gt;&lt;div&gt;BUKU&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="690" y="15" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-4" value="Permintaan Data Buku" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="539" y="28" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-6" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;Permintaan Diterima&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="627" y="162" width="100" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-7" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="180" as="sourcePoint" />
+            <mxPoint x="730" y="135" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-8" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="730" y="180" as="sourcePoint" />
+            <mxPoint x="610" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-12" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="160" as="sourcePoint" />
+            <mxPoint x="600" y="160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-13" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="220" as="sourcePoint" />
+            <mxPoint x="600" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-14" value="DATA PEMINJAM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="176" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-15" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="200" as="sourcePoint" />
+            <mxPoint x="740" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-16" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="740" y="200" as="sourcePoint" />
+            <mxPoint x="740" y="134.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-17" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;Status Data Buku Yang Di Minta&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="618" y="204" width="118" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-18" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" target="_EkYU_BqKjtHuQNzoAOT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="85" as="sourcePoint" />
+            <mxPoint x="690" y="65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_EkYU_BqKjtHuQNzoAOT-19" value="Data Buku" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="90" width="71" height="15" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="nKnRod18F5qW6ls2Hgyj" name="Halaman-3">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
